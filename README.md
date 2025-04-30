@@ -1,7 +1,7 @@
 <h1 align="center"> NINJA BOT</h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX">
+  <a href="https://github.com/ninjaarch/hacker">
     <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
   </a>
 </p>
